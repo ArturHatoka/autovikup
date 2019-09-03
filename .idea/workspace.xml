@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83153e02-a3e7-483b-bfb7-3fd1b99b6359" name="Default Changelist" comment="" />
+    <list default="true" id="83153e02-a3e7-483b-bfb7-3fd1b99b6359" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="395" column="30" lean-forward="true" selection-start-line="395" selection-start-column="30" selection-end-line="395" selection-end-column="30" />
+            <state relative-caret-position="518">
+              <caret line="387" column="14" lean-forward="true" selection-start-line="387" selection-start-column="14" selection-end-line="387" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -44,6 +48,7 @@
     <findStrings>
       <find>h-100 w-100 bg-white py-3 px-2 text-center</find>
       <find>w-auto</find>
+      <find>carouselExampleControls</find>
     </findStrings>
     <replaceStrings>
       <replace>d-flex col-3 my-3</replace>
@@ -51,6 +56,9 @@
       <replace>col-2</replace>
       <replace>carouselExampleControls1</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -67,6 +75,7 @@
     <option name="width" value="1228" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -145,12 +154,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567420662569</updated>
       <workItem from="1567420667811" duration="8021000" />
-      <workItem from="1567491682316" duration="8293000" />
+      <workItem from="1567491682316" duration="12680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16314000" />
+    <option name="totallyTimeSpent" value="20701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -225,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="395" column="30" lean-forward="true" selection-start-line="395" selection-start-column="30" selection-end-line="395" selection-end-column="30" />
+        <state relative-caret-position="518">
+          <caret line="387" column="14" lean-forward="true" selection-start-line="387" selection-start-column="14" selection-end-line="387" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,40 @@
+* {
+  font-family: Arial, sans-serif; }
+
+.bg-gray {
+  background-color: #eaeaea; }
+
+.bg-fscreen {
+  background: url("../img/slider1.png") center bottom no-repeat;
+  background-size: cover; }
+
+.bg-lgray {
+  background-color: #f7f7f7; }
+
+.white {
+  color: white; }
+
+.logo {
+  height: 85px; }
+
+.bg-auto-price {
+  background: url("../img/car.png") bottom right no-repeat, linear-gradient(to right, #242529 0%, #48494c 73%, #242529 100%);
+  background-size: auto 90%; }
+
+.huw-img {
+  border-radius: 50%;
+  border: 8px solid #fdaf00;
+  box-shadow: -2px 4px 10px rgba(0, 0, 0, 0.65);
+  display: flex; }
+
+.carousel-control-next-icon {
+  background-image: url("../img/next-arr.svg"); }
+
+.carousel-control-prev-icon {
+  background-image: url("../img/prev-arr.svg"); }
+
+.carousel-control-next, .carousel-control-prev {
+  width: 5%; }
+
+.bg-dgray {
+  background: linear-gradient(to right, #242529 0%, #48494c 73%, #242529 100%); }

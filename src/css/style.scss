@@ -39,3 +39,80 @@
 .bg-dgray{
   background: linear-gradient(to right, rgba(36,37,41,1) 0%, rgba(72,73,76,1) 73%, rgba(36,37,41,1) 100%);
 }
+
+$yellow: #0fb445;
+$yellow-grad: linear-gradient(90deg,#0eb847 0,#48c873 100%);
+$orange:#fdaf00;
+$orange-grad:linear-gradient(90deg,#fc8308 0,#feb605 100%);
+
+.btn-yel-space{
+  background: none;
+  border: 2px solid $yellow;
+  font-weight: bold;
+  color: $yellow;
+}
+.btn-yel{
+  background: $yellow;
+  border: 2px solid $yellow;
+  font-weight: bold;
+  color: white;
+}
+
+
+.link{
+  font-weight: bold;
+  &:hover{
+    color: black;
+  }
+}
+.link-white{
+  font-weight: normal;
+  &:hover{
+    color: white;
+  }
+}
+.m-w-m-c{
+  max-width: max-content;
+}
+.link-yel{
+  color: $yellow;
+}
+
+.navbar{
+  font-weight: bold;
+}
+input{
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    padding: 2px 5px;
+}
+.btn-org-grad{
+  background: $orange-grad;
+  border: 0 none;
+  font-weight: bold;
+  padding: 10px 0;
+  color: white;
+  transition: color .2s;
+  &:hover{
+    color: black;
+    transition: color .2s;
+  }
+}
+.category-block-link{
+  font-weight: bold;
+  color: $yellow;
+  font-size: 20px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  transition: .1s;
+  &:hover{
+    color: $orange;
+    box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.28);
+    transition: .1s;
+  }
+}
+.red{
+  color: red;
+}
+.yellow{
+  color: $yellow;
+}
